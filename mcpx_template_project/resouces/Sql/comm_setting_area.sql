@@ -1,0 +1,10 @@
+INSERT INTO comm_setting_area (id, setting_id, area_type, name, position, quantity, sort) VALUES (5, 1, 'AO', 'D', '0', 960, 1);
+INSERT INTO comm_setting_area (id, setting_id, area_type, name, position, quantity, sort) VALUES (6, 1, 'AO', 'D', '3000', 960, 2);
+INSERT INTO comm_setting_area (id, setting_id, area_type, name, position, quantity, sort) VALUES (7, 1, 'AO', 'D', '2000', 960, 3);
+INSERT INTO comm_setting_area (id, setting_id, area_type, name, position, quantity, sort) VALUES (8, 1, 'DO', 'M', '0', 960, 4);
+INSERT INTO comm_setting_area (id, setting_id, area_type, name, position, quantity, sort) VALUES (9, 1, 'DO', 'M', '2000', 960, 5);
+INSERT INTO comm_setting_area (id, setting_id, area_type, name, position, quantity, sort) VALUES (17, 2, 'AO', 'M', '0', 960, 1);
+INSERT INTO comm_setting_area (id, setting_id, area_type, name, position, quantity, sort) VALUES (18, 2, 'AO', 'M', '2000', 960, 2);
+INSERT INTO comm_setting_area (id, setting_id, area_type, name, position, quantity, sort) VALUES (19, 2, 'AO', 'M', '3000', 960, 3);
+INSERT INTO comm_setting_area (id, setting_id, area_type, name, position, quantity, sort) VALUES (20, 2, 'DO', 'D', '0', 960, 4);
+INSERT INTO comm_setting_area (id, setting_id, area_type, name, position, quantity, sort) VALUES (21, 2, 'DO', 'D', '2000', 960, 5);

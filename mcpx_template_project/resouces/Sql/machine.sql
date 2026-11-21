@@ -1,0 +1,2 @@
+INSERT INTO machine (id, comm_setting_id, name, create_by, create_time, update_by, update_time, remark) VALUES (1, 1, 'CSL-A32II', 'admin', '2026-10-25 00:00:00', 'admin', '2026-10-25 00:00:00', '机台-VmIODriver1');
+INSERT INTO machine (id, comm_setting_id, name, create_by, create_time, update_by, update_time, remark) VALUES (2, 2, 'CSL-A25H', 'admin', '2026-10-25 00:00:00', 'admin', '2026-10-25 00:00:00', '机台-VmIODriver2');

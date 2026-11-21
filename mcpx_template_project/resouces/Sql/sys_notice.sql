@@ -1,0 +1,1 @@
+INSERT INTO sys_notice (notice_id, notice_title, notice_type, notice_content, source, status, create_by, create_time, update_by, update_time, remark) VALUES (1, '终端警告', '0', 'Test Again222..333', 'S10F3', '0', 'HOST', '2026-11-07 22:57:54.1203974', null, null, null);
